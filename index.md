@@ -24,6 +24,8 @@
 
 ## Arukasとは
 
+![](images/arukas.png)
+
 . . . 
 
 さくらインターネットが提供するクラウドDocker Hostingサービス
